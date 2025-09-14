@@ -1,0 +1,62 @@
+# License for CSATM Learning Repository
+
+This repository contains educational materials and personal notes for Princeton University's "Computer Science: Algorithms, Theory, and Machines" course available on Coursera.
+
+## Content Attribution and Licensing
+
+### Princeton University Materials
+The following materials are **owned by Princeton University** and are used here for educational purposes:
+
+- **Course slides** (all PDF files in `slides/` directories)  
+- **Textbook materials** (content in `Textbook/` directory)
+- **Original code examples** (Java code files that are part of the course curriculum)
+- **Web resources** (linked materials from Princeton's course website)
+
+**Rights**: These materials remain the intellectual property of Princeton University. They are included in this repository solely for educational reference and study purposes under fair use provisions.
+
+### Personal Learning Notes
+The following materials are **created by the repository owner** and are released under the **MIT License**:
+
+- **Personal notes** (all Markdown files in `notes/` directories)
+- **Modified or extended code examples** (where clearly marked as personal modifications)
+- **Personal summaries and interpretations**
+- **Additional exercises and solutions** (where created independently)
+
+#### MIT License for Personal Content
+
+```
+MIT License
+
+Copyright (c) 2025 ascendho
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## Educational Use Disclaimer
+
+This repository is created for educational purposes only. The Princeton University materials included here are used under fair use provisions for learning and study. If you are affiliated with Princeton University and have concerns about the use of these materials, please contact the repository owner.
+
+
+## Contact
+
+For questions about this repository or licensing concerns, please open an issue or contact the repository owner.
+
+---
+
+**Note**: This is an educational repository. Commercial use of Princeton University materials is not permitted. Personal learning notes are freely available under the MIT License for educational and non-commercial purposes.
