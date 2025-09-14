@@ -13,6 +13,7 @@
 | 序号 | 章节                  | 教材     | 代码                                               | Web资源                                                      | 笔记                                                         |
 | ---- | --------------------- | -------- | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 02   | Sorting and Searching | P535-565 | <a href="02 - Sorting and Searching/code">code</a> | <a href="https://introcs.cs.princeton.edu/java/42sort/">online</a> | <a href="02 - Sorting and Searching/notes/典型客户端程序.md">典型客户端</a> |
+|      |                       |          |                                                    |                                                              | <a href="02 - Sorting and Searching/notes/二分查找.md">二分查找</a> |
 
 
 
