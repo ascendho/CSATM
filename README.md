@@ -16,6 +16,7 @@
 |      |                       |          |                                                    |                                                              | <a href="02 - Sorting and Searching/notes/二分查找.md">二分查找</a> |
 |      |                       |          |                                                    |                                                              | <a href="02 - Sorting and Searching/notes/插入排序.md">插入排序</a> |
 |      |                       |          |                                                    |                                                              | <a href="02 - Sorting and Searching/notes/归并排序.md">归并排序</a> |
+|      |                       |          |                                                    |                                                              | <a href="02 - Sorting and Searching/notes/最长重复子串.md">最长重复子串</a> |
 
 
 
