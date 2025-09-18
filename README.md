@@ -20,6 +20,7 @@
 | 03   | Stacks and Queues     | p566-623 | <a href="03 - Stacks and Queues/code">code</a>     | <a href="https://introcs.cs.princeton.edu/java/43stack/">online</a> | <a href="03 - Stacks and Queues/notes/接口.md">接口</a>      |
 |      |                       |          |                                                    |                                                              | <a href="03 - Stacks and Queues/notes/客户端程序.md">客户端程序</a> |
 |      |                       |          |                                                    |                                                              | <a href="03 - Stacks and Queues/notes/基础实现.md">基础实现</a> |
+|      |                       |          |                                                    |                                                              | <a href="03 - Stacks and Queues/notes/链表.md">链表</a>      |
 
 
 
