@@ -22,6 +22,10 @@
 |      |                       |          |                                                    |                                                              | <a href="03 - Stacks and Queues/notes/基础实现.md">基础实现</a> |
 |      |                       |          |                                                    |                                                              | <a href="03 - Stacks and Queues/notes/链表.md">链表</a>      |
 |      |                       |          |                                                    |                                                              | <a href="03 - Stacks and Queues/notes/实现.md">实现</a>      |
+| 04   | Symbol Tables         | p624-669 |                                                    | <a href="https://introcs.cs.princeton.edu/java/44st/">online</a> |                                                              |
+|      |                       |          |                                                    |                                                              |                                                              |
+|      |                       |          |                                                    |                                                              |                                                              |
+|      |                       |          |                                                    |                                                              |                                                              |
 
 
 
